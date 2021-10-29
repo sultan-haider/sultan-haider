@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sultan Haider</h1>
-<h3 align="center">A happy guy and a passionate Full stack developer & Solution Architect.</h3>
+<h3 align="center">A happy guy, passionate Full stack developer and a Solution Architect.</h3>
 
 - 💬 Ask me about **React , Angular , Nodejs , Django and AWS solutions Architect**
 
