@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sultan Haider</h1>
 <h3 align="center">A happy guy, passionate Full stack developer and a Solution Architect.</h3>
 
-- 💬 Ask me about **React , Angular , Nodejs , Django and AWS solutions Architect**
+- 💬 Ask me about **React , Angular , Nodejs , Django and AWS Practitioner**
 
 - 📫 How to reach me **sultanhaider041@gmail.com**
 
