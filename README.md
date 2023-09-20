@@ -3,6 +3,11 @@
 
 - 💬 Ask me about **  AWS Solution Architecture,Javascript, Nodejs, React, Angular , Django and python**
 
+- Key Skills ** <strong>Programming Languages and Frameworks:</strong><p>
+            ● JavaScript ● TypeScript ● Node.js ● NestJS ● ReactJS ● Angular 2+
+            ● Next.js ● Django ● Google Chrome Extensions ● WebRTC</p>
+  
+
 - 📫 How to reach me **sultanhaider041@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sultan-haider/](https://www.linkedin.com/in/sultan-haider/)
