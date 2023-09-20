@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sultan Haider</h1>
 <h3 align="center">A happy guy, passionate Full stack developer and a AWS Certified Solutions Architect Professional</h3>
 
-- 💬 Ask me about **  AWS Solution Architecture,Javascript, Nodejs, React, Angular , Django and python**
+- 💬 Ask me about **  Nodejs, React ,NextJs, NestJs, Angular, Databases like Mongo, Planetscale, MySql, PostgreSQL, RDS, Prisma and AWS Cloud Infrastructure.**
 
 - <h3 align="left">Skills:</h3>
-<strong>Programming Languages and Frameworks:</strong>
-<p> ● JavaScript ● TypeScript ● Node.js ● NestJS ● ReactJS ● Angular 2+ ● Next.js ● Django ● Google Chrome Extensions ● WebRTC</p>
+- <strong>Programming Languages and Frameworks:</strong>
+- - <p> ● JavaScript ● TypeScript ● Node.js ● NestJS ● ReactJS ● Angular 2+ ● Next.js ● Django ● Google Chrome Extensions ● WebRTC</p>
 <br/>
 <strong>Cloud and Database Technologies:</strong>
 <p>MongoDB ● MySql ● PostgreSQL ● PlanetScale
