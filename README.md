@@ -4,18 +4,10 @@
 - 💬 Ask me about **  Nodejs, React ,NextJs, NestJs, Angular, Databases like Mongo, Planetscale, MySql, PostgreSQL, RDS, Prisma and AWS Cloud Infrastructure.**
 
 - <h3 align="left">Skills:</h3>
-- <strong>Programming Languages and Frameworks:</strong><p> - JavaScript -  TypeScript - Node.js  - NestJS ● ReactJS ● Angular 2+ ● Next.js ● Django ● Google Chrome Extensions ● WebRTC</p>
+- <strong>Programming Languages and Frameworks:</strong><p> - JavaScript -  TypeScript - Node.js  - NestJS - ReactJS - Angular 2+ - Next.js - Django - Google Chrome Extensions - WebRTC</p>
 
-- <strong>Cloud and Database Technologies:</strong><p>MongoDB ● MySql ● PostgreSQL ● PlanetScale
-● AWS RDS ● AWS Dynamo DB ● Prisma ORM ● Sequalize ORM
-● Mongoose ORM ● Redis ● BullMQ ● Celery
-● AWS (Amazon Web Services) ● Cloud Formation ● AWS Lambda Functions
-● AWS State-Machines (Queue processing) ● AWS Cognito User Pools.</p>
-<br/>
-- <strong>DevOps and Infrastructure:</strong> <p> ● CI/CD pipelines ● AWS ECS (Elastic Container Service)
-● ECR (Elastic Container Registry) ● Docker ● EC2 (Elastic Compute Cloud)
-● AWS Codebuild ● AWS Pipelines ● Autoscaling
-● AWS Load Balancing ● Nginx ● Ubuntu</p>
+- <strong>Cloud and Database Technologies:</strong><p>MongoDB - MySql - PostgreSQL - PlanetScale - AWS RDS - AWS Dynamo DB - Prisma ORM - Sequalize ORM - Mongoose ORM - Redis - BullMQ - Celery - AWS (Amazon Web Services) - Cloud Formation - AWS Lambda Functions - AWS State-Machines (Queue processing) - AWS Cognito User Pools.</p>
+- <strong>DevOps and Infrastructure:</strong> <p> - CI/CD pipelines - AWS ECS (Elastic Container Service) - ECR (Elastic Container Registry) - Docker - EC2 (Elastic Compute Cloud) - AWS Codebuild - AWS Pipelines - Autoscaling - AWS Load Balancing - Nginx - Ubuntu</p>
 
 
 - 📫 How to reach me **sultanhaider041@gmail.com**
