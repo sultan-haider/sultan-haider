@@ -5,7 +5,7 @@
 
 - <h3 align="left">Skills:</h3>
 - <strong>Programming Languages and Frameworks:</strong>
-- - <p> ● JavaScript ● TypeScript ● Node.js ● NestJS ● ReactJS ● Angular 2+ ● Next.js ● Django ● Google Chrome Extensions ● WebRTC</p>
+ - <p> - JavaScript -  TypeScript - Node.js  - NestJS ● ReactJS ● Angular 2+ ● Next.js ● Django ● Google Chrome Extensions ● WebRTC</p>
 <br/>
 <strong>Cloud and Database Technologies:</strong>
 <p>MongoDB ● MySql ● PostgreSQL ● PlanetScale
